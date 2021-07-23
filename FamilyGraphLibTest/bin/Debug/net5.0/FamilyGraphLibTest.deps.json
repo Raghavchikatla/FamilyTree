@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FamilyGraphLibTest/1.0.0": {
+        "dependencies": {
+          "FamilyGraphLib": "1.0.0"
+        },
+        "runtime": {
+          "FamilyGraphLibTest.dll": {}
+        }
+      },
+      "FamilyGraphLib/1.0.0": {
+        "runtime": {
+          "FamilyGraphLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FamilyGraphLibTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FamilyGraphLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

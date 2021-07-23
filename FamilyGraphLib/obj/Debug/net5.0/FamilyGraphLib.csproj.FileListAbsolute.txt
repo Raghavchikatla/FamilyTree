@@ -1,0 +1,12 @@
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/bin/Debug/net5.0/FamilyGraphLib.deps.json
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/bin/Debug/net5.0/FamilyGraphLib.dll
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/bin/Debug/net5.0/ref/FamilyGraphLib.dll
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/bin/Debug/net5.0/FamilyGraphLib.pdb
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/obj/Debug/net5.0/FamilyGraphLib.csproj.AssemblyReference.cache
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/obj/Debug/net5.0/FamilyGraphLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/obj/Debug/net5.0/FamilyGraphLib.AssemblyInfoInputs.cache
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/obj/Debug/net5.0/FamilyGraphLib.AssemblyInfo.cs
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/obj/Debug/net5.0/FamilyGraphLib.csproj.CoreCompileInputs.cache
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/obj/Debug/net5.0/FamilyGraphLib.dll
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/obj/Debug/net5.0/ref/FamilyGraphLib.dll
+/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/obj/Debug/net5.0/FamilyGraphLib.pdb

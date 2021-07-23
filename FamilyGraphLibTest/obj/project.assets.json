@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "FamilyGraphLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/FamilyGraphLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FamilyGraphLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FamilyGraphLib/1.0.0": {
+      "type": "project",
+      "path": "../FamilyGraphLib/FamilyGraphLib.csproj",
+      "msbuildProject": "../FamilyGraphLib/FamilyGraphLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "FamilyGraphLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/raghav/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLibTest/FamilyGraphLibTest.csproj",
+      "projectName": "FamilyGraphLibTest",
+      "projectPath": "/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLibTest/FamilyGraphLibTest.csproj",
+      "packagesPath": "/Users/raghav/.nuget/packages/",
+      "outputPath": "/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLibTest/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/raghav/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/FamilyGraphLib.csproj": {
+              "projectPath": "/Users/raghav/Desktop/VS Codes/FamilyTree/FamilyGraphLib/FamilyGraphLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
